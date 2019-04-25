@@ -1,0 +1,665 @@
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 3:38:19 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 10:14:53 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 10:16:17 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+[10:20:26][0]Klaus Brot: test
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 10:22:48 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 10:24:46 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+[10:26:11][0]Klaus Brot: test
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/13/2019 11:19:30 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/14/2019 10:25:45 AM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstrecource resource..
+firstrecource: loading scripts.. found 1 script(s)
+-> Resource firstrecource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:11:08 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+-> Error starting firstresource, meta.xml has not been found.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:12:10 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+-> Error starting firstresource, resource(s) not found: Microsoft.CodeAnalysis.VisualBasic
+WARNING: Some assemblies are not fully loaded from memory at runtime, you may have to copy your assembly into 'runtime\' folder.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:14:20 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:17:12 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:40:12 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:42:10 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:45:58 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:48:23 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading commands.. found 1 command(s)
+firstresource: loaded 1 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+[06:48:59][0]Klaus Brot: test
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/15/2019 6:52:38 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading commands.. found 2 command(s)
+firstresource: loaded 2 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 6:33:24 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading commands.. found 2 command(s)
+firstresource: loaded 2 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 6:36:18 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading commands.. found 3 command(s)
+firstresource: loaded 3 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 6:47:24 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 1 server event(s)
+firstresource: loaded 1 server events(s)
+firstresource: loading commands.. found 5 command(s)
+firstresource: loaded 5 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 7:03:53 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 6 command(s)
+firstresource: loaded 6 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+[07:06:42][0]Klaus Brot: flaregun 10
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 7:27:08 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 7 command(s)
+firstresource: loaded 7 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 7:40:46 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 10 command(s)
+firstresource: loaded 10 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 7:44:28 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 10 command(s)
+firstresource: loaded 10 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 8:19:10 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 11 command(s)
+firstresource: loaded 11 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 8:36:07 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 12 command(s)
+firstresource: loaded 12 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+UNHANDLED EXCEPTION WHEN PARSING COMMAND admincar 1\ FROM PLAYER Klaus Brot
+System.FormatException: Input string was not in a correct format.
+   at void Number.StringToNumber(ReadOnlySpan<char> str, NumberStyles options, ref NumberBuffer number, NumberFormatInfo info, bool parseDecimal)
+   at int Number.ParseInt32(ReadOnlySpan<char> s, NumberStyles style, NumberFormatInfo info)
+   at int string.System.IConvertible.ToInt32(IFormatProvider provider)
+   at object Convert.ChangeType(object value, Type conversionType, IFormatProvider provider)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+WARNING: "SetEntityInvincible" function is not implemented yet.
+WARNING: "SetVehicleBulletproofTyres" function is not implemented yet.
+WARNING: "SetVehicleEnginePowerMultiplier" function is not implemented yet.
+WARNING: "SetVehicleEngineTorqueMultiplier" function is not implemented yet.
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 8:49:14 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 12 command(s)
+firstresource: loaded 12 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+WARNING: "SetVehicleBulletproofTyres" function is not implemented yet.
+WARNING: "SetVehicleEngineTorqueMultiplier" function is not implemented yet.
+WARNING: "SetVehicleEnginePowerMultiplier" function is not implemented yet.
+WARNING: "SetEntityInvincible" function is not implemented yet.
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 9:00:39 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 14 command(s)
+firstresource: loaded 14 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 9:09:39 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 14 command(s)
+firstresource: loaded 14 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+UNHANDLED EXCEPTION IN COMMAND setmod FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 9:15:29 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 14 command(s)
+firstresource: loaded 14 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 9:29:22 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 14 command(s)
+firstresource: loaded 14 commands(s)
+-> Resource firstresource started!
+-> Starting carmenu resource..
+-> Error starting carmenu, meta.xml has not been found.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 9:37:50 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 2 server event(s)
+firstresource: loaded 2 server events(s)
+firstresource: loading commands.. found 14 command(s)
+firstresource: loaded 14 commands(s)
+-> Resource firstresource started!
+-> Starting carmenu resource..
+carmenu: loading scripts.. found 1 script(s)
+-> Error starting carmenu, resource(s) not found: D:\GTA\server-files\bridge\resources\carmenu\bin\Debug\firstresource.dll
+WARNING: Some assemblies are not fully loaded from memory at runtime, you may have to copy your assembly into 'runtime\' folder.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 10:18:59 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 10:23:49 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 10:52:08 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/16/2019 10:52:19 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 7:57:07 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 8:17:00 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 8:19:44 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 15 command(s)
+firstresource: loaded 15 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 9:25:40 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 3 server events(s)
+firstresource: loading commands.. found 17 command(s)
+firstresource: loaded 17 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 10:59:47 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.DisconnectEvent..
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 1 server event(s)
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 4 server events(s)
+firstresource: loading commands.. found 17 command(s)
+firstresource: loaded 17 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 4/18/2019 11:10:16 PM
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting firstresource resource..
+firstresource: loading scripts.. found 1 script(s)
+firstresource: instantiating firstresource.DisconnectEvent..
+firstresource: instantiating firstresource.Main..
+firstresource: loading server events.. found 1 server event(s)
+firstresource: loading server events.. found 3 server event(s)
+firstresource: loaded 4 server events(s)
+firstresource: loading commands.. found 17 command(s)
+firstresource: loaded 17 commands(s)
+-> Resource firstresource started!
+Started! Waiting for connections..
+UNHANDLED EXCEPTION IN COMMAND setneon FOR RESOURCE firstresource
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetNeon(Client client, int r, int g, int b) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 220
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at bool GTANetworkInternals.CommandParser.Parse(Client sender, string cmdRaw, string ourcmd, string[] args)

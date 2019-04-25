@@ -1,0 +1,583 @@
+
+==================[4/15/2019 6:12:13 PM]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.CodeAnalysis.VisualBasic, Version=2.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'Microsoft.CodeAnalysis.VisualBasic, Version=2.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at IEnumerable<Script> GTANetworkInternals.GameServer.CompileScript(Dictionary<string, string> script, string resourceName, ICollection<string> resourceAssemblies, bool vbBasic)
+   at bool GTANetworkInternals.GameServer.StartResource(string resourceName, string parent)
+
+
+=========================================================
+
+==================[4/16/2019 8:39:28 PM]==================
+System.FormatException: Input string was not in a correct format.
+   at void Number.StringToNumber(ReadOnlySpan<char> str, NumberStyles options, ref NumberBuffer number, NumberFormatInfo info, bool parseDecimal)
+=========================================================
+
+==================[4/16/2019 9:04:38 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:04:38 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:04:44 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:04:44 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:04:48 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:04:48 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:04:53 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:04:53 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:04:58 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:04:58 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:05:04 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:05:04 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:05:12 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:05:12 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:05:22 PM]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+=========================================================
+
+==================[4/16/2019 9:05:22 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetHandle GTANetworkAPI.Entity.op_Implicit(Entity c)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 117
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:06:08 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Expr Microsoft.CSharp.RuntimeBinder.Semantics.ExpressionBinder.mustConvertCore(Expr expr, CType dest, CONVERTTYPE flags)
+=========================================================
+
+==================[4/16/2019 9:06:08 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:06:08 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:06:08 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:06:08 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:49 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:08:50 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Expr Microsoft.CSharp.RuntimeBinder.Semantics.ExpressionBinder.mustConvertCore(Expr expr, CType dest, CONVERTTYPE flags)
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:11:31 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:12:10 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:12:10 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/16/2019 9:12:10 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:12:10 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at void firstresource.Main.CMD_SetMod(Client client, int arg1, int arg2) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 116
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/16/2019 9:12:10 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/16/2019 9:37:52 PM]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'D:\GTA\server-files\bridge\resources\carmenu\bin\Debug\firstresource.dll'. The system cannot find the path specified.
+File name: 'D:\GTA\server-files\bridge\resources\carmenu\bin\Debug\firstresource.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[4/18/2019 8:19:46 PM]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'LiteDB'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[4/18/2019 9:25:42 PM]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'LiteDB'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[4/18/2019 10:59:49 PM]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'LiteDB'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[4/18/2019 11:10:19 PM]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'LiteDB'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Expr Microsoft.CSharp.RuntimeBinder.Semantics.ExpressionBinder.mustConvertCore(Expr expr, CType dest, CONVERTTYPE flags)
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'firstresource.ExtendedVehicle' to 'GTANetworkAPI.Vehicle'
+   at Vehicle CallSite.Target(Closure, CallSite, object)
+   at TRet System.Dynamic.UpdateDelegates.UpdateAndExecute1<T0, TRet>(CallSite site, T0 arg0)
+   at void firstresource.Main.CMD_SetNeon(Client client, int r, int g, int b) in D:\GTA\server-files\bridge\resources\firstresource\Main.cs:line 220
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[4/18/2019 11:13:09 PM]==================
+System.NotImplementedException: The method or operation is not implemented.
+   at IList<CustomAttributeData> System.Reflection.MemberInfo.GetCustomAttributesData()
+=========================================================
